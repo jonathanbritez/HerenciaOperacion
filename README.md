@@ -14,7 +14,9 @@ package Mail;
 
 
 import Operaciones.hijaResta;
+
 import Operaciones.hijaSuma;
+
 import java.util.Scanner;
 
 public class Mail 
@@ -58,6 +60,7 @@ public class Mail
 package Operaciones;
 
 import java.util.Scanner;
+
 import Operaciones.hijaSuma;
 
 public class PadreOperaciones {
